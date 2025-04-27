@@ -1,0 +1,17 @@
+{
+  "5521969869469@s.whatsapp.net": {
+    "personagem": "Eren",
+    "hp": 120,
+    "ataque": 30,
+    "defesa": 20,
+    "habilidade": "Titã de Ataque",
+    "hpMax": 120,
+    "titanKills": 0,
+    "expedicoes": 0,
+    "rank": "Recruta",
+    "equipamento": "ODM Básico",
+    "fundos": 300,
+    "lastCombat": 0,
+    "inventario": []
+  }
+}
