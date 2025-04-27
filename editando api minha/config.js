@@ -1,7 +1,7 @@
 
 // token de seu Cluster do mongoDb
 
-const token = 'mongodb+srv://cookid16games:cookid16games@cluster0.hciwmqb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'; 
+const token = 'Aqui voce bota o seu token Cluster do momgoDb'; 
 
 module.exports = {
 token
