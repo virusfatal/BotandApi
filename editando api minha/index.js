@@ -691,7 +691,7 @@ app.get('/overlay/:APIKEY', async (req, res) => {
   const EDIT_PARAMS = {
     width: 502,      // Largura fixa
     height: 278,     // Altura fixa
-    top: 30,        // Posição vertical
+    top: 35,        // Posição vertical
     left: 190,       // Posição horizontal
     rotate: 0,     // Rotação em graus
     opacity: 0,    // Opacidade (0.1 a 1.0)
