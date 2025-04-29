@@ -29,6 +29,7 @@ module.exports = async (client, from, pushname, comando, prefix) => {
 │  🌐 ${prefix}hentai
 │  🌐 ${prefix}loli defeito
 │  🌐 ${prefix}trap
+│  🌐 ${prefix}iehentai (pesquisa)
 ╰⋅–––––––––––––––––––––⋅╯
 `
   })
