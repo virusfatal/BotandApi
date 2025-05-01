@@ -25,6 +25,10 @@ caption: `
 ┃ 🔞 ${prefix}18 [1/0]     
 ┃ 🎭 ${prefix}brincar [1/0]
 ┃ 🎮 ${prefix}rpg [1/0]    
+┃ 🖼️ ${prefix}antiimg [1/0]
+┃ 🖼️ ${prefix}antiimg2 [1/0]
+┃ 🌉 ${prefix}antisticker [1/0]
+┃ 🌉 ${prefix}antisticker2 [1/0]
 ┃ 🧼 ${prefix}limpar       
 ┃ 🔑 ${prefix}abrir
 ┃ 🔒 ${prefix}fechar              

@@ -1,12 +1,29 @@
 {
   "120363417790102276@g.us": {
-    "nsfw": true,
-    "modozoeira": false,
-    "rpg": true
-  },
-  "120363141802620790@g.us": {
     "nsfw": false,
     "modozoeira": true,
-    "rpg": true
+    "rpg": false,
+    "img": false,
+    "img2": false,
+    "sticker": false,
+    "sticker2": false
+  },
+  "120363418455787851@g.us": {
+    "nsfw": false,
+    "modozoeira": true,
+    "rpg": false,
+    "img": false,
+    "img2": false,
+    "sticker": false,
+    "sticker2": false
+  },
+  "120363226051156552@g.us": {
+    "nsfw": false,
+    "modozoeira": true,
+    "rpg": false,
+    "img": false,
+    "img2": false,
+    "sticker": false,
+    "sticker2": false
   }
 }
